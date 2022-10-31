@@ -88,7 +88,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "GitHub":
     - "//github.com/fox9d"
 
 # Makes Aux links open in a new tab. Default is false
@@ -99,9 +99,9 @@ aux_links_new_tab: false
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/fox9d
+# nav_external_links:
+#  - title: Just the Docs on GitHub
+#    url: https://github.com/fox9d
 # Footer content
 # appears at the bottom of every page's main content
 
